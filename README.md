@@ -1,3 +1,6 @@
+<h1 align="center">
+  dkimgames.github.io - v1
+</h1>
 <p align="center">
   My portfolio code with props to <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
